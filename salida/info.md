@@ -1,0 +1,1 @@
+## informacion de las salidas de la aplicación
